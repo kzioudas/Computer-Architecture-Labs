@@ -1,0 +1,166 @@
+﻿Ερώτηση 1:
+  Ποιά είναι η ακολουθία διευθύνσεων που παράγει ο επεξεργαστής;
+  (τις 3-4 πρώτες διευθύνσεις και μετά, αν γίνεται κάποια αλλαγή, αναφερετέ την)
+  Είναι σημαντικό να είστε ακριβείς π.χ. αναφέρετε αν η ίδια διεύθυνση επαναλαμβάνεται και τί είδους προσπέλαση γίνεται (load, store).
+ Η ακολουθια διευθθνσεων ειναι η εξης:
+ 0x10010000
+0x10010010
+0x10010020
+0x10010030
+καθε μια διευθυνση επαναλαμβανεται, δηλαδη υπαρχει μια για load και μια για store αναλογα σε ποια εντολη βρισκεται.
+Επισης μετα απο απο την 4η διευθυνση η ακουλουθια ειναι η ιδια απλα η διευθυνση ειναι +4. To ιδιο συμβαινει καθε 8 διευθυνσεις.
+
+Ερώτηση 2:
+  Ποιό είναι το μοτίβο των διευθύνσεων; 
+  Δηλαδή τί κοινό φαίνεται να έχουν οι διευθύνσεις που προσπελαύνονται; Π.χ. συνεχόμενες διευθύνσεις, 10 φορές η ίδια διεύθυνση και μετά 10 φορές η διευθυνση+4, κ.ο.κ.
+	το μοτιβο των διευθυνσεων ειναι το εξης: στις πρωτες 4 διευθυνσεις ανεβαινουν ανα 10, μετα απο 4 διευθυνσεις ανεβαινουν κατα 4 και συνεχιζουν να ανεβαινουν κατα 10 δηλ. 
+0x10010000
+0x10010010
+0x10010020
+0x10010030
+0x10010004
+0x10010014
+0x10010024
+0x10010034
+
+.
+.
+.
+.
+
+
+Ερώτηση 3:
+  Ποιό είναι το μοτίβο των προσπελάσεων σε θέσεις της κρυφής μνήμης;
+  Παρόμοια με την προηγούμενη ερώτηση μόνο που τώρα εξετάζετε αν υπάρχει κάτι αντίστοιχο στις γραμμές της κρυφής μνήμης.
+	  Προσπελαβνονται ολα τα μπλοκς της κρυφης μνημης απο την αρχη μεχρι να βρεθει ενα κενο (μιςς)(not occupied) απο τις θεσεις 0 εως 15
+
+Ερώτηση 4:
+  Ποιό είναι το τελικό ποσοστό ευστοχίας (hit rate) του προγράμματος;
+50%
+
+
+Ερώτηση 5:
+  Αλλάζοντας μόνο τον αριθμό γραμμών (cache blocks) της κρυφής μνήμης (που αυξάνει το συνολικό μέγεθός της), μπορεί το ίδιο ακριβώς πρόγραμμα να πετύχει μεγαλύτερο ποσοστό ευστοχιών από αυτό που βλέπετε; Γιατί;
+ οχι δεν μπορει να πετυχει μεγαλυτερο ποσοστο ευστοχιων γιατι  αλλαζει μονο ο αριθμος τον blocks και το μεγεθος της μνημης και οχι το μεγεθος των μπλοκς που θα εκανε την διαφορα
+
+Ερώτηση 6:
+  Ποιό είναι το νέο ποσοστό ευστοχίας;
+  Γιατί έγινε τόσο υψηλό παρόλο που ο αποθηκευτικός χώρος της κρυφής μνήμης δεν άλλαξε;
+
+ 88%
+
+ Εγινε τοσο υψηλο διοτι αλλαξε το μεγεθος των μπλοκς συνεπως αξιοποιειτε καλυτερα η χωρικη τοπικοτητα με αποτελεσμα να αυξανεται ο ρυθμος ευστοχιας.
+ 
+Ερώτηση 7:
+  Ποιό είναι το νέο μοτίβο των προσπελάσεων;
+η προσπελαση τον μπλοκς της κρυφης  μνημης γινεται απο το 0 εως το 3 μπλοκ μεχρι να βρεθει κενο. Αυτη την φορα οι ακολουθια τον διευθυνσεων ακολουθει το παρακατω μοτιβο:
+0x10010000
+0x10010010
+0x10010020
+0x10010030
+0x10010040
+0x10010050
+0x10010060
+0x10010070
+και συνεχιζει ομοια με την διαφορα οτι εχει πλεον +4
+Ερώτηση 8:
+  Ποιό είναι το νέο ποσοστό ευστοχίας;
+  Σε τί οφείλεται η μείωση του ποσοστού ευστοχίας;
+  Η απάντηση θα πρέπει να αναφέρεται και σε ιδιότητες του προγράμματος και της κρυφής μνήμης.
+	50%.
+	η μειωση οφειλεται στο οτι απο 8way εγινε 4way
+
+Ερώτηση 9:
+  Αν ο αριθμός γραμμών της κρυφής μνήμης γινόταν 1 (συνολικό μέγεθος κρυφής μνήμης 16 bytes), ποιό θα ήταν το ποσοστό ευστοχίας;
+	50% 
+
+Ερώτηση 10:
+  Συγκρίνετε το ποσοστό ευστοχίας της νέας οργάνωσης, direct mapped, σε σχέση με το αντίστοιχο ποσοστό της fully associative που είχε τον ίδιο αριθμό και μέγεθος γραμμών.
+  Εξηγείστε τι συμβαίνει.
+	50% ιδιο. 
+
+Ερώτηση 11:
+  Ποιό είναι το μοτίβο των προσπελάσεων σε θέσεις της κρυφής μνήμης;
+  Περιγράψτε το μοτίβο των αντικαταστάσεων γραμμών της κρυφής μνήμης;
+  μοτιβο προσπελασεων:
+	(1) address: 0x10010000 (tag 0x00400400)  block range: 0-0
+   trying block 0 empty -- MISS
+
+(3) address: 0x10010020 (tag 0x00400400)  block range: 2-2
+   trying block 2 empty -- MISS
+(4) address: 0x10010020 (tag 0x00400400)  block range: 2-2
+   trying block 2 tag 0x00400400 -- HIT
+(5) address: 0x10010040 (tag 0x00400401)  block range: 0-0
+   trying block 0 tag 0x00400400 -- OCCUPIED
+   MISS due to FULL SET(6) address: 0x10010040 (tag 0x00400401)  block range: 0-0
+   trying block 0 tag 0x00400401 -- HIT
+(7) address: 0x10010060 (tag 0x00400401)  block range: 2-2
+   trying block 2 tag 0x00400400 -- OCCUPIED
+   MISS due to FULL SET(8) address: 0x10010060 (tag 0x00400401)  block range: 2-2
+   trying block 2 tag 0x00400401 -- HIT
+(9) address: 0x10010004 (tag 0x00400400)  block range: 0-0
+   trying block 0 tag 0x00400401 -- OCCUPIED
+   MISS due to FULL SET(10) address: 0x10010004 (tag 0x00400400)  block range: 0-0
+   trying block 0 tag 0x00400400 -- HIT
+(11) address: 0x10010024 (tag 0x00400400)  block range: 2-2
+   trying block 2 tag 0x00400401 -- OCCUPIED
+   MISS due to FULL SET(12) address: 0x10010024 (tag 0x00400400)  block range: 2-2
+   trying block 2 tag 0x00400400 -- HIT
+(13) address: 0x10010044 (tag 0x00400401)  block range: 0-0
+   trying block 0 tag 0x00400400 -- OCCUPIED
+   MISS due to FULL SET(14) address: 0x10010044 (tag 0x00400401)  block range: 0-0
+   trying block 0 tag 0x00400401 -- HIT
+(15) address: 0x10010064 (tag 0x00400401)  block range: 2-2
+   trying block 2 tag 0x00400400 -- OCCUPIED
+   MISS due to FULL SET(16) address: 0x10010064 (tag 0x00400401)  block range: 2-2
+   trying block 2 tag 0x00400401 -- HIT
+
+
+(33) address: 0x10010010 (tag 0x00400400)  block range: 1-1
+   trying block 1 empty -- MISS
+(34) address: 0x10010010 (tag 0x00400400)  block range: 1-1
+   trying block 1 tag 0x00400400 -- HIT
+(35) address: 0x10010030 (tag 0x00400400)  block range: 3-3
+   trying block 3 empty -- MISS
+(36) address: 0x10010030 (tag 0x00400400)  block range: 3-3
+   trying block 3 tag 0x00400400 -- HIT
+(37) address: 0x10010050 (tag 0x00400401)  block range: 1-1
+   trying block 1 tag 0x00400400 -- OCCUPIED
+   MISS due to FULL SET(38) address: 0x10010050 (tag 0x00400401)  block range: 1-1
+   trying block 1 tag 0x00400401 -- HIT
+(39) address: 0x10010070 (tag 0x00400401)  block range: 3-3
+   trying block 3 tag 0x00400400 -- OCCUPIED
+   MISS due to FULL SET(40) address: 0x10010070 (tag 0x00400401)  block range: 3-3
+   trying block 3 tag 0x00400401 -- HIT
+(41) address: 0x10010014 (tag 0x00400400)  block range: 1-1
+   trying block 1 tag 0x00400401 -- OCCUPIED
+   MISS due to FULL SET(42) address: 0x10010014 (tag 0x00400400)  block range: 1-1
+   trying block 1 tag 0x00400400 -- HIT
+(43) address: 0x10010034 (tag 0x00400400)  block range: 3-3
+   trying block 3 tag 0x00400401 -- OCCUPIED
+   MISS due to FULL SET(44) address: 0x10010034 (tag 0x00400400)  block range: 3-3
+   trying block 3 tag 0x00400400 -- HIT
+(45) address: 0x10010054 (tag 0x00400401)  block range: 1-1
+   trying block 1 tag 0x00400400 -- OCCUPIED
+   MISS due to FULL SET(46) address: 0x10010054 (tag 0x00400401)  block range: 1-1
+   trying block 1 tag 0x00400401 -- HIT
+(47) address: 0x10010074 (tag 0x00400401)  block range: 3-3
+   trying block 3 tag 0x00400400 -- OCCUPIED
+   MISS due to FULL SET(48) address: 0x10010074 (tag 0x00400401)  block range: 3-3
+   trying block 3 tag 0x00400401 -- HIT
+(49) address: 0x10010018 (tag 0x00400400)  block range: 1-1
+   trying block 1 tag 0x00400401 -- OCCUPIED
+   MISS due to FULL SET(50) address: 0x10010018 (tag 0x00400400)  block range: 1-1
+   trying block 1 tag 0x00400400 -- HIT
+(51) address: 0x10010038 (tag 0x00400400)  block range: 3-3
+   trying block 3 tag 0x00400401 -- OCCUPIED
+   MISS due to FULL SET(52) address: 0x10010038 (tag 0x00400400)  block range: 3-3
+   trying block 3 tag 0x00400400 -- HIT
+(53) address: 0x10010058 (tag 0x00400401)  block range: 1-1
+   trying block 1 tag 0x00400400 -- OCCUPIED
+   MISS due to FULL SET(54) address: 0x10010058 (tag 0x00400401)  block range: 1-1
+   trying block 1 tag 0x00400401 -- HIT
+Ερώτηση 12
+  Ποιό είναι το νέο ποσοστό ευστοχίας;
+
+ 50%

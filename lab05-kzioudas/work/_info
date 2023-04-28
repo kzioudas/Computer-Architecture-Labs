@@ -1,0 +1,1241 @@
+m255
+K3
+13
+cModel Technology
+dE:\Assassin's Creed - Origins\New folder
+Eadder
+Z0 w1543262311
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\vernieros\Desktop\lab05-kzioudas
+Z5 8C:/Users/vernieros/Desktop/lab05-kzioudas/adder.vhd
+Z6 FC:/Users/vernieros/Desktop/lab05-kzioudas/adder.vhd
+l0
+L5
+Vf;6[2`UP4cz21X=0mcS1W0
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1543343245.700000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/adder.vhd|
+Z10 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/adder.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 l47k_STKkZUzQ5BKT]hL10
+!i10b 1
+Artl
+R1
+R2
+R3
+DEx4 work 5 adder 0 22 f;6[2`UP4cz21X=0mcS1W0
+l14
+L13
+VVc:RKCB_jClYK0c:eVMHE2
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 M2MT16nAHWRjVX[@Qdg:>1
+!i10b 1
+Ealu
+Z13 w1543262311
+R1
+R2
+R3
+R4
+Z14 8C:/Users/vernieros/Desktop/lab05-kzioudas/alu.vhd
+Z15 FC:/Users/vernieros/Desktop/lab05-kzioudas/alu.vhd
+l0
+L5
+VR4kT;=5^3PS_m_IP1Dil63
+R7
+32
+Z16 !s108 1543343245.778000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/alu.vhd|
+Z18 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/alu.vhd|
+R11
+R12
+!s100 4nT@UEgl3TQfibWK^aO:Y3
+!i10b 1
+Artl
+R1
+R2
+R3
+DEx4 work 3 alu 0 22 R4kT;=5^3PS_m_IP1Dil63
+l22
+L15
+V@eiO82f<EY^RWOcCcQlRe2
+R7
+32
+R16
+R17
+R18
+R11
+R12
+!s100 JNX?ET?gD[[^Wh1bY1cS70
+!i10b 1
+Eandinv
+R13
+R1
+R2
+R3
+R4
+Z19 8C:/Users/vernieros/Desktop/lab05-kzioudas/andInv.vhd
+Z20 FC:/Users/vernieros/Desktop/lab05-kzioudas/andInv.vhd
+l0
+L5
+VGj4fmai9MFS_G]AgWWQ]o1
+R7
+32
+Z21 !s108 1543343245.881000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/andInv.vhd|
+Z23 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/andInv.vhd|
+R11
+R12
+!s100 djaXRD@9aV4C[d`>>7WI41
+!i10b 1
+Artl
+R1
+R2
+R3
+DEx4 work 6 andinv 0 22 Gj4fmai9MFS_G]AgWWQ]o1
+l14
+L13
+VSe26JAS6F464]<F6i]b9i2
+R7
+32
+R21
+R22
+R23
+R11
+R12
+!s100 aSmm>f52_a^Z4cijaicX33
+!i10b 1
+Econstant0
+R13
+R2
+R3
+R4
+Z24 8C:/Users/vernieros/Desktop/lab05-kzioudas/constant0.vhd
+Z25 FC:/Users/vernieros/Desktop/lab05-kzioudas/constant0.vhd
+l0
+L63
+VZWZX0AL:gcSgMk5Kz:0Zj2
+R7
+32
+Z26 !s108 1543343245.986000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/constant0.vhd|
+Z28 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/constant0.vhd|
+R11
+R12
+!s100 HT>=Ck5X4@N]IUni=2Pib2
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 9 constant0 0 22 ZWZX0AL:gcSgMk5Kz:0Zj2
+l83
+L71
+Vid1We:b^z<;KKbo36>zf21
+R7
+32
+R26
+R27
+R28
+R11
+R12
+!s100 S[J<YZ4CZUE]mElXOek2C3
+!i10b 1
+Econstant0_lpm_constant_r09
+R13
+R2
+R3
+R4
+R24
+R25
+l0
+L43
+VQHQmRiLjdTPgd]UBi4RAh3
+R7
+32
+R26
+R27
+R28
+R11
+R12
+!s100 :PSZ9DVznFGdXGkh2TI>21
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 26 constant0_lpm_constant_r09 0 22 QHQmRiLjdTPgd]UBi4RAh3
+l52
+L50
+V>PZQ85;<64=I2>YT830zg3
+R7
+32
+R26
+R27
+R28
+R11
+R12
+!s100 [PHO`Y57_7cN5_jBF=]lc1
+!i10b 1
+Econstant4
+R13
+R2
+R3
+R4
+Z29 8C:/Users/vernieros/Desktop/lab05-kzioudas/constant4.vhd
+Z30 FC:/Users/vernieros/Desktop/lab05-kzioudas/constant4.vhd
+l0
+L63
+VUIXoR=?S=]?IQYTDZk1>F0
+R7
+32
+Z31 !s108 1543343246.113000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/constant4.vhd|
+Z33 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/constant4.vhd|
+R11
+R12
+!s100 _j2@>d;`Vhg@=>d8UW?bz3
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 9 constant4 0 22 UIXoR=?S=]?IQYTDZk1>F0
+l83
+L71
+V7j0[18Ob9len`K<<`e?=h0
+R7
+32
+R31
+R32
+R33
+R11
+R12
+!s100 iUH;0D2HDoOQb`d1]mN992
+!i10b 1
+Econstant4_lpm_constant_v09
+R13
+R2
+R3
+R4
+R29
+R30
+l0
+L43
+VMDZL@LTYT8P[iaLk^Q:z`2
+R7
+32
+R31
+R32
+R33
+R11
+R12
+!s100 QoijD=>J=o40_bReJhBRl2
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 26 constant4_lpm_constant_v09 0 22 MDZL@LTYT8P[iaLk^Q:z`2
+l52
+L50
+VHOgZFQSMgC3gCbbW>:6LW1
+R7
+32
+R31
+R32
+R33
+R11
+R12
+!s100 UDRi?mKj:9ASm[dCic>Me0
+!i10b 1
+Edmemsync
+R13
+R2
+R3
+R4
+Z34 8C:/Users/vernieros/Desktop/lab05-kzioudas/dmemSync.vhd
+Z35 FC:/Users/vernieros/Desktop/lab05-kzioudas/dmemSync.vhd
+l0
+L42
+VDaA6ITV6aH1P<CE>[Rkog3
+R7
+32
+Z36 !s108 1543343246.245000
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/dmemSync.vhd|
+Z38 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/dmemSync.vhd|
+R11
+R12
+!s100 K];I0W_Fl0lZU2_62lQUQ1
+!i10b 1
+Asyn
+R2
+R3
+DEx4 work 8 dmemsync 0 22 DaA6ITV6aH1P<CE>[Rkog3
+l86
+L54
+V8MO?g>QhIj;CM>?bK30__2
+R7
+32
+R36
+R37
+R38
+R11
+R12
+!s100 i7f@IOD6L`XSkA?P9@aJ72
+!i10b 1
+Eeq_cmp
+R13
+R1
+R2
+R3
+R4
+Z39 8C:/Users/vernieros/Desktop/lab05-kzioudas/eq_cmp.vhd
+Z40 FC:/Users/vernieros/Desktop/lab05-kzioudas/eq_cmp.vhd
+l0
+L5
+VYi;NU2dV@E:4>Y8lUjaE62
+R7
+32
+Z41 !s108 1543343246.339000
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/eq_cmp.vhd|
+Z43 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/eq_cmp.vhd|
+R11
+R12
+!s100 6[H>;?a8nGl>2L6T]W]Sl2
+!i10b 1
+Artl
+R1
+R2
+R3
+DEx4 work 6 eq_cmp 0 22 Yi;NU2dV@E:4>Y8lUjaE62
+l14
+L13
+V76_Y;7on0>Ai_UNAzLbkT2
+R7
+32
+R41
+R42
+R43
+R11
+R12
+!s100 WDZQ;3`71fL_63@P2zHgS2
+!i10b 1
+Eflop32
+R13
+R1
+R2
+R3
+R4
+Z44 8C:/Users/vernieros/Desktop/lab05-kzioudas/flop32.vhd
+Z45 FC:/Users/vernieros/Desktop/lab05-kzioudas/flop32.vhd
+l0
+L5
+VL5AG:Ohc86cQ^]dUc7<[M3
+R7
+32
+Z46 !s108 1543343246.547000
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/flop32.vhd|
+Z48 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/flop32.vhd|
+R11
+R12
+!s100 _9>o=lziPkZgP>]5AC5ii3
+!i10b 1
+Artl
+R1
+R2
+R3
+DEx4 work 6 flop32 0 22 L5AG:Ohc86cQ^]dUc7<[M3
+l14
+L13
+VSnaIi[U1mI>CYMF_MCNAk2
+R7
+32
+R46
+R47
+R48
+R11
+R12
+!s100 KA<8fG6Z@iegzT@TaCflb2
+!i10b 1
+Eflop5
+R13
+R1
+R2
+R3
+R4
+Z49 8C:/Users/vernieros/Desktop/lab05-kzioudas/flop5.vhd
+Z50 FC:/Users/vernieros/Desktop/lab05-kzioudas/flop5.vhd
+l0
+L5
+V=F1N:lT:=gJL?FIQZa2Pk3
+R7
+32
+Z51 !s108 1543343246.445000
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/flop5.vhd|
+Z53 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/flop5.vhd|
+R11
+R12
+!s100 MLbR[9kDFJ9XzPZOdbC]f2
+!i10b 1
+Artl
+R1
+R2
+R3
+DEx4 work 5 flop5 0 22 =F1N:lT:=gJL?FIQZa2Pk3
+l14
+L13
+VWhlNfnYLJ4OWgTJAaULDe0
+R7
+32
+R51
+R52
+R53
+R11
+R12
+!s100 N>L7HE>f]GZ9<[iLQ2nb]1
+!i10b 1
+Eflope5
+R13
+R1
+R2
+R3
+R4
+Z54 8C:/Users/vernieros/Desktop/lab05-kzioudas/flope5.vhd
+Z55 FC:/Users/vernieros/Desktop/lab05-kzioudas/flope5.vhd
+l0
+L5
+V9<D<bOXW7@OFZ?jS5S]6j0
+R7
+32
+Z56 !s108 1543343246.653000
+Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/flope5.vhd|
+Z58 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/flope5.vhd|
+R11
+R12
+!s100 Cb:ZLTTD_:C2N`cRSB2Xb2
+!i10b 1
+Artl
+R1
+R2
+R3
+DEx4 work 6 flope5 0 22 9<D<bOXW7@OFZ?jS5S]6j0
+l15
+L14
+VjEEIHfg]zN_;ejGXQP^N:1
+R7
+32
+R56
+R57
+R58
+R11
+R12
+!s100 1QSEhCg?]hQK2iHA74DGN2
+!i10b 1
+Eflopr
+R13
+R1
+R2
+R3
+R4
+Z59 8C:/Users/vernieros/Desktop/lab05-kzioudas/flopr.vhd
+Z60 FC:/Users/vernieros/Desktop/lab05-kzioudas/flopr.vhd
+l0
+L5
+V63^KL_Q2Al[:z6l3Kc=I?0
+R7
+32
+Z61 !s108 1543343246.729000
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/flopr.vhd|
+Z63 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/flopr.vhd|
+R11
+R12
+!s100 H6aEJg=GQN]3V7E1ze=Oe3
+!i10b 1
+Artl
+R1
+R2
+R3
+DEx4 work 5 flopr 0 22 63^KL_Q2Al[:z6l3Kc=I?0
+l16
+L15
+VHYKOb2hE<kA[Z6OD4WhEe1
+R7
+32
+R61
+R62
+R63
+R11
+R12
+!s100 GcY@BPRz6k4c`W2_d=k4F2
+!i10b 1
+Eimemsync
+R13
+R2
+R3
+R4
+Z64 8C:/Users/vernieros/Desktop/lab05-kzioudas/imemSync.vhd
+Z65 FC:/Users/vernieros/Desktop/lab05-kzioudas/imemSync.vhd
+l0
+L42
+V<a`Mc70TFhh8Y=N=goYGD0
+R7
+32
+Z66 !s108 1543343246.834000
+Z67 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/imemSync.vhd|
+Z68 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/imemSync.vhd|
+R11
+R12
+!s100 c2J[Am@i=@o[k`mF=7igk2
+!i10b 1
+Asyn
+R2
+R3
+DEx4 work 8 imemsync 0 22 <a`Mc70TFhh8Y=N=goYGD0
+l83
+L53
+VAeiR9[W:CP3KUJ`B==iJ@1
+R7
+32
+R66
+R67
+R68
+R11
+R12
+!s100 Lj6`V3:A`o`8XdNFeoV=Z0
+!i10b 1
+Emaindec
+R13
+R1
+R2
+R3
+R4
+Z69 8C:/Users/vernieros/Desktop/lab05-kzioudas/maindec.vhd
+Z70 FC:/Users/vernieros/Desktop/lab05-kzioudas/maindec.vhd
+l0
+L5
+VXKakEd^hbo6=QWeZogR;50
+R7
+32
+Z71 !s108 1543343246.933000
+Z72 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/maindec.vhd|
+Z73 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/maindec.vhd|
+R11
+R12
+!s100 h7RMhe30zdZ:fKV@LHGd72
+!i10b 1
+Artl
+R1
+R2
+R3
+DEx4 work 7 maindec 0 22 XKakEd^hbo6=QWeZogR;50
+l34
+L26
+VIbdb>F`05GCQV8aF[:CH_0
+R7
+32
+R71
+R72
+R73
+R11
+R12
+!s100 g9gkm80Be>C[RmB`n@Dh60
+!i10b 1
+Emips
+R13
+R2
+R3
+R4
+Z74 8C:/Users/vernieros/Desktop/lab05-kzioudas/mips.vhd
+Z75 FC:/Users/vernieros/Desktop/lab05-kzioudas/mips.vhd
+l0
+L24
+VV6X>_?7=F9BO_O54A`;j42
+R7
+32
+Z76 !s108 1543343247.028000
+Z77 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/mips.vhd|
+Z78 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/mips.vhd|
+R11
+R12
+!s100 >b]dC_U:=KJeGO<Y?zl0j1
+!i10b 1
+Abdf_type
+R2
+R3
+DEx4 work 4 mips 0 22 V6X>_?7=F9BO_O54A`;j42
+l370
+L32
+Vo4Qc@eGf9m=_j2nA5EkaE1
+R7
+32
+R76
+R77
+R78
+R11
+R12
+!s100 >BXD0molIU?PBoPAnNUd31
+!i10b 1
+Emux2_32
+R13
+R1
+R2
+R3
+R4
+Z79 8C:/Users/vernieros/Desktop/lab05-kzioudas/mux2_32.vhd
+Z80 FC:/Users/vernieros/Desktop/lab05-kzioudas/mux2_32.vhd
+l0
+L5
+VWGUGRMlWbzDHeamGzB1;D3
+R7
+32
+Z81 !s108 1543343247.213000
+Z82 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/mux2_32.vhd|
+Z83 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/mux2_32.vhd|
+R11
+R12
+!s100 Glcb=mNahH`8`G4=Vdd?Q0
+!i10b 1
+Artl
+R1
+R2
+R3
+DEx4 work 7 mux2_32 0 22 WGUGRMlWbzDHeamGzB1;D3
+l15
+L14
+VDTG<@bCo<zna_XLgl8bDN0
+R7
+32
+R81
+R82
+R83
+R11
+R12
+!s100 8FW?BQ:g1;z=l:c<EO1B63
+!i10b 1
+Emux2_5
+R13
+R1
+R2
+R3
+R4
+Z84 8C:/Users/vernieros/Desktop/lab05-kzioudas/mux2_5.vhd
+Z85 FC:/Users/vernieros/Desktop/lab05-kzioudas/mux2_5.vhd
+l0
+L5
+VP4@[zebe8l9]P2hQPQ8PH1
+R7
+32
+Z86 !s108 1543343247.109000
+Z87 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/mux2_5.vhd|
+Z88 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/mux2_5.vhd|
+R11
+R12
+!s100 PGa1bFEB:KQk[G;a`YH0`2
+!i10b 1
+Artl
+R1
+R2
+R3
+DEx4 work 6 mux2_5 0 22 P4@[zebe8l9]P2hQPQ8PH1
+l15
+L14
+VK5<YMOo7DPhXMzCU^T;mE3
+R7
+32
+R86
+R87
+R88
+R11
+R12
+!s100 M4PK5dGJ8gCnGI=_SKATZ1
+!i10b 1
+Emux3_32
+R13
+R1
+R2
+R3
+R4
+Z89 8C:/Users/vernieros/Desktop/lab05-kzioudas/mux3_32.vhd
+Z90 FC:/Users/vernieros/Desktop/lab05-kzioudas/mux3_32.vhd
+l0
+L5
+V_=F3U_?Y:L57n?SKNl_Q@0
+R7
+32
+Z91 !s108 1543343247.315000
+Z92 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/mux3_32.vhd|
+Z93 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/mux3_32.vhd|
+R11
+R12
+!s100 lbczV_2^4XR?7@`>ho@L92
+!i10b 1
+Artl
+R1
+R2
+R3
+DEx4 work 7 mux3_32 0 22 _=F3U_?Y:L57n?SKNl_Q@0
+l16
+L15
+VWLUmR6k[V[aV<k8jQbmKi0
+R7
+32
+R91
+R92
+R93
+R11
+R12
+!s100 iTeaCaTaBfGC5]MbA?Jl20
+!i10b 1
+Emux4_32
+R13
+R1
+R2
+R3
+R4
+Z94 8C:/Users/vernieros/Desktop/lab05-kzioudas/mux4_32.vhd
+Z95 FC:/Users/vernieros/Desktop/lab05-kzioudas/mux4_32.vhd
+l0
+L5
+VL0HV@Y7a]LKK=TGFFNmIR3
+R7
+32
+Z96 !s108 1543343247.423000
+Z97 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/mux4_32.vhd|
+Z98 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/mux4_32.vhd|
+R11
+R12
+!s100 @WZ=nXMg8H7]fU_YgV;DN0
+!i10b 1
+Artl
+R1
+R2
+R3
+DEx4 work 7 mux4_32 0 22 L0HV@Y7a]LKK=TGFFNmIR3
+l17
+L16
+VZlzA@6[83:?RKQ@Yf=Qea2
+R7
+32
+R96
+R97
+R98
+R11
+R12
+!s100 7TNn8?0H8H]0OVi0_=5aZ1
+!i10b 1
+Epipe_ctrl
+R13
+R1
+R2
+R3
+R4
+Z99 8C:/Users/vernieros/Desktop/lab05-kzioudas/pipe_ctrl.vhd
+Z100 FC:/Users/vernieros/Desktop/lab05-kzioudas/pipe_ctrl.vhd
+l0
+L5
+VW6?k8ml6XZO36m:<=ckTJ1
+R7
+32
+Z101 !s108 1543343247.523000
+Z102 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/pipe_ctrl.vhd|
+Z103 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/pipe_ctrl.vhd|
+R11
+R12
+!s100 h^?H<YjVY`X]_IL64P:CX3
+!i10b 1
+Artl
+R1
+R2
+R3
+DEx4 work 9 pipe_ctrl 0 22 W6?k8ml6XZO36m:<=ckTJ1
+l39
+L36
+VcToz]jDAGV0Qe_LPPFNXL3
+R7
+32
+R101
+R102
+R103
+R11
+R12
+!s100 D@gkNVPzSL`<QL9P;6KoO1
+!i10b 1
+Epr_ex_mem
+R13
+R1
+R2
+R3
+R4
+Z104 8C:/Users/vernieros/Desktop/lab05-kzioudas/pr_ex_mem.vhd
+Z105 FC:/Users/vernieros/Desktop/lab05-kzioudas/pr_ex_mem.vhd
+l0
+L5
+V[aZOV6fPD?K[7KRgVb5c;1
+R7
+32
+Z106 !s108 1543343247.619000
+Z107 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/pr_ex_mem.vhd|
+Z108 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/pr_ex_mem.vhd|
+R11
+R12
+!s100 7F=;WIB9mK^2R>>fNaiMf2
+!i10b 1
+Artl
+R1
+R2
+R3
+DEx4 work 9 pr_ex_mem 0 22 [aZOV6fPD?K[7KRgVb5c;1
+l30
+L29
+VfWLK1;78CFT:KehC6NUzV2
+R7
+32
+R106
+R107
+R108
+R11
+R12
+!s100 ce:aMZKT2zPFMFQL7M_mZ0
+!i10b 1
+Epr_id_ex
+R13
+R1
+R2
+R3
+R4
+Z109 8C:/Users/vernieros/Desktop/lab05-kzioudas/pr_id_ex.vhd
+Z110 FC:/Users/vernieros/Desktop/lab05-kzioudas/pr_id_ex.vhd
+l0
+L5
+VEH`NA=80KQOM6VJPk>VV_2
+R7
+32
+Z111 !s108 1543343247.713000
+Z112 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/pr_id_ex.vhd|
+Z113 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/pr_id_ex.vhd|
+R11
+R12
+!s100 7a^V<=FELz<:2fjVDg=[J0
+!i10b 1
+Artl
+R1
+R2
+R3
+DEx4 work 8 pr_id_ex 0 22 EH`NA=80KQOM6VJPk>VV_2
+l41
+L40
+Vz]N4<zBH69Xz^e9T16VV71
+R7
+32
+R111
+R112
+R113
+R11
+R12
+!s100 U0YTN7]cefjD?cO18R>KJ2
+!i10b 1
+Epr_if_id
+R13
+R1
+R2
+R3
+R4
+Z114 8C:/Users/vernieros/Desktop/lab05-kzioudas/pr_if_id.vhd
+Z115 FC:/Users/vernieros/Desktop/lab05-kzioudas/pr_if_id.vhd
+l0
+L5
+V3FUF^3XoGFVK61ZCWI2:e2
+R7
+32
+Z116 !s108 1543343247.806000
+Z117 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/pr_if_id.vhd|
+Z118 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/pr_if_id.vhd|
+R11
+R12
+!s100 CMT`BYP3P1k:n;73z58WB0
+!i10b 1
+Artl
+R1
+R2
+R3
+DEx4 work 8 pr_if_id 0 22 3FUF^3XoGFVK61ZCWI2:e2
+l22
+L17
+V1;SXZXOkO[lN3SQmBT;YL2
+R7
+32
+R116
+R117
+R118
+R11
+R12
+!s100 Vfj;mBeGd7:3E?8S`V@CL2
+!i10b 1
+Epr_mem_wb
+R13
+R1
+R2
+R3
+R4
+Z119 8C:/Users/vernieros/Desktop/lab05-kzioudas/pr_mem_wb.vhd
+Z120 FC:/Users/vernieros/Desktop/lab05-kzioudas/pr_mem_wb.vhd
+l0
+L5
+V;;75TbM396]kG:4]U`cL;3
+R7
+32
+Z121 !s108 1543343247.905000
+Z122 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/pr_mem_wb.vhd|
+Z123 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/pr_mem_wb.vhd|
+R11
+R12
+!s100 zZbCoX@42ZKZ=i^E8C?Zc1
+!i10b 1
+Artl
+R1
+R2
+R3
+DEx4 work 9 pr_mem_wb 0 22 ;;75TbM396]kG:4]U`cL;3
+l23
+L22
+VNBV9=mBdiRYnk3^;PWm:J2
+R7
+32
+R121
+R122
+R123
+R11
+R12
+!s100 V_[V?glB^Bi<OcH0AcWOc0
+!i10b 1
+Eregcmp
+R13
+R2
+R3
+R4
+Z124 8C:/Users/vernieros/Desktop/lab05-kzioudas/regCmp.vhd
+Z125 FC:/Users/vernieros/Desktop/lab05-kzioudas/regCmp.vhd
+l0
+L24
+VWObPYYllE`G9SRCTOjgcS0
+R7
+32
+Z126 !s108 1543343247.997000
+Z127 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/regCmp.vhd|
+Z128 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/regCmp.vhd|
+R11
+R12
+!s100 RMoXW9MWaiN4feP@f7=0g3
+!i10b 1
+Abdf_type
+R2
+R3
+DEx4 work 6 regcmp 0 22 WObPYYllE`G9SRCTOjgcS0
+l45
+L34
+V@YEVVl;gJNO[c3H5LbeGf2
+R7
+32
+R126
+R127
+R128
+R11
+R12
+!s100 LW6TK2_YoTDZkRgzU1[V82
+!i10b 1
+Erfposedge
+R13
+R2
+R3
+R4
+Z129 8C:/Users/vernieros/Desktop/lab05-kzioudas/rfPosEdge.vhd
+Z130 FC:/Users/vernieros/Desktop/lab05-kzioudas/rfPosEdge.vhd
+l0
+L24
+V8CX1[<mFJe?AIT<izh<_Y0
+R7
+32
+Z131 !s108 1543343248.095000
+Z132 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/rfPosEdge.vhd|
+Z133 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/rfPosEdge.vhd|
+R11
+R12
+!s100 iGY=C]zC2=`QG=RTabe7W0
+!i10b 1
+Abdf_type
+R2
+R3
+DEx4 work 9 rfposedge 0 22 8CX1[<mFJe?AIT<izh<_Y0
+l107
+L38
+VzAU2a5Zn=cjzEezKnYAo63
+R7
+32
+R131
+R132
+R133
+R11
+R12
+!s100 4;Sf5WGoXQX1g3aJc8Fbz2
+!i10b 1
+Esignext
+R13
+R1
+R2
+R3
+R4
+Z134 8C:/Users/vernieros/Desktop/lab05-kzioudas/signext.vhd
+Z135 FC:/Users/vernieros/Desktop/lab05-kzioudas/signext.vhd
+l0
+L5
+V71X43fagPfM;@:24e@OHm0
+R7
+32
+Z136 !s108 1543343248.181000
+Z137 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/signext.vhd|
+Z138 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/signext.vhd|
+R11
+R12
+!s100 i[j85Ud8zEIWPf<KHI0he1
+!i10b 1
+Artl
+R1
+R2
+R3
+DEx4 work 7 signext 0 22 71X43fagPfM;@:24e@OHm0
+l15
+L12
+V=ad1B3n=]31D0<m:3QG@f1
+R7
+32
+R136
+R137
+R138
+R11
+R12
+!s100 FUDLXWNg5Y0nSI:0>zAnX0
+!i10b 1
+Esl16_32
+R13
+R1
+R2
+R3
+R4
+Z139 8C:/Users/vernieros/Desktop/lab05-kzioudas/sl16_32.vhd
+Z140 FC:/Users/vernieros/Desktop/lab05-kzioudas/sl16_32.vhd
+l0
+L5
+V6@K@S^LzW:8L?g_i0KV:I3
+R7
+32
+Z141 !s108 1543343248.495000
+Z142 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/sl16_32.vhd|
+Z143 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/sl16_32.vhd|
+R11
+R12
+!s100 mL6K;[khSm3G_ecXE:_CC0
+!i10b 1
+Artl
+R1
+R2
+R3
+DEx4 work 7 sl16_32 0 22 6@K@S^LzW:8L?g_i0KV:I3
+l14
+L12
+V88FkFkV_PLg3iHfPJO=`@1
+R7
+32
+R141
+R142
+R143
+R11
+R12
+!s100 2ZV]hBgf3W[NIWQ4;EAEn0
+!i10b 1
+Esl2_26
+R13
+R1
+R2
+R3
+R4
+Z144 8C:/Users/vernieros/Desktop/lab05-kzioudas/sl2_26.vhd
+Z145 FC:/Users/vernieros/Desktop/lab05-kzioudas/sl2_26.vhd
+l0
+L5
+VhHM[2KfDHl<Zm:?cJ14:=0
+R7
+32
+Z146 !s108 1543343248.287000
+Z147 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/sl2_26.vhd|
+Z148 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/sl2_26.vhd|
+R11
+R12
+!s100 O^Nc31S3V2_lz_SOPYDfm0
+!i10b 1
+Artl
+R1
+R2
+R3
+DEx4 work 6 sl2_26 0 22 hHM[2KfDHl<Zm:?cJ14:=0
+l14
+L12
+V=UhTf_2^NQURgG>bh<2oJ3
+R7
+32
+R146
+R147
+R148
+R11
+R12
+!s100 Iakf1abI`==4NKJnGkMa10
+!i10b 1
+Esl2_32
+R13
+R1
+R2
+R3
+R4
+Z149 8C:/Users/vernieros/Desktop/lab05-kzioudas/sl2_32.vhd
+Z150 FC:/Users/vernieros/Desktop/lab05-kzioudas/sl2_32.vhd
+l0
+L5
+V:ge2HZGVNB8T29G?ID^1A0
+R7
+32
+Z151 !s108 1543343248.389000
+Z152 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/sl2_32.vhd|
+Z153 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/sl2_32.vhd|
+R11
+R12
+!s100 znaGfKhk63IH<cNC]1Ah83
+!i10b 1
+Artl
+R1
+R2
+R3
+DEx4 work 6 sl2_32 0 22 :ge2HZGVNB8T29G?ID^1A0
+l14
+L12
+V62NeX:=?Rz>d>HIS7goRG2
+R7
+32
+R151
+R152
+R153
+R11
+R12
+!s100 2IaEol9kJX:OzZ=O4g0;K3
+!i10b 1
+Esyncram2poswrite
+R13
+R2
+R3
+R4
+Z154 8C:/Users/vernieros/Desktop/lab05-kzioudas/syncRam2posWrite.vhd
+Z155 FC:/Users/vernieros/Desktop/lab05-kzioudas/syncRam2posWrite.vhd
+l0
+L42
+VVK]0i8j>4]5Ioe2jJ9G?H0
+R7
+32
+Z156 !s108 1543343248.597000
+Z157 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/syncRam2posWrite.vhd|
+Z158 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/syncRam2posWrite.vhd|
+R11
+R12
+!s100 72bM7NE;6P7beTWeOg<BB2
+!i10b 1
+Asyn
+R2
+R3
+DEx4 work 16 syncram2poswrite 0 22 VK]0i8j>4]5Ioe2jJ9G?H0
+l98
+L58
+VHRYHhikbi>8c5d9a]>H5m3
+R7
+32
+R156
+R157
+R158
+R11
+R12
+!s100 Pg7ZRlTJ>o^9RCGTh7Sze1
+!i10b 1
+Esyncregfile
+R13
+R2
+R3
+R4
+Z159 8C:/Users/vernieros/Desktop/lab05-kzioudas/syncRegFile.vhd
+Z160 FC:/Users/vernieros/Desktop/lab05-kzioudas/syncRegFile.vhd
+l0
+L24
+V>>FDWn5V30FmAKCU>I>la1
+R7
+32
+Z161 !s108 1543343248.695000
+Z162 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/syncRegFile.vhd|
+Z163 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/syncRegFile.vhd|
+R11
+R12
+!s100 M@loC8gYjHTcW@VKH^BnM1
+!i10b 1
+Abdf_type
+R2
+R3
+DEx4 work 11 syncregfile 0 22 >>FDWn5V30FmAKCU>I>la1
+l56
+L40
+VJ^W;KEi3683ooAZ<JcoR61
+!s100 _VW0BJYF`7P<mLhXS@a>A3
+R7
+32
+R161
+R162
+R163
+R11
+R12
+!i10b 1
+Etop
+R13
+R1
+R2
+R3
+R4
+Z164 8C:/Users/vernieros/Desktop/lab05-kzioudas/top.vhd
+Z165 FC:/Users/vernieros/Desktop/lab05-kzioudas/top.vhd
+l0
+L5
+VlJeCU;D8NjiYTaBV33=MX2
+!s100 c?Pn_c82=LAh6NJdPSg@52
+R7
+32
+!i10b 1
+Z166 !s108 1543343248.780000
+Z167 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/vernieros/Desktop/lab05-kzioudas/top.vhd|
+Z168 !s107 C:/Users/vernieros/Desktop/lab05-kzioudas/top.vhd|
+R11
+R12
+Artl
+R1
+R2
+R3
+Z169 DEx4 work 3 top 0 22 lJeCU;D8NjiYTaBV33=MX2
+l18
+L8
+Z170 VhLHT@4njk6kWEdoPHk]^^2
+Z171 !s100 Z]6Tjo``Lm1;3H]C9:8Gi1
+R7
+32
+!i10b 1
+R166
+R167
+R168
+R11
+R12
